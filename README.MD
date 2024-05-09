@@ -1,6 +1,11 @@
 # Descripcion
 Servicio Rest para Crear Usuarios con telefonos asociados
 
+## Requisitos
+* Java 17 o superior
+* Intellij para corre el proyecto o un mvn clean install y ejecutar el .jar
+* Postman
+
 ## Puerto: 8080
 ## Persistencia: H2 & JPA
 
